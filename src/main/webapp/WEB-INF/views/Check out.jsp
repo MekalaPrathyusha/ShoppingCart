@@ -23,7 +23,7 @@ body {
 <body>
 	<center>
 		<h1 style="font-size: 300%;">Thank You for Shopping!!!</h1>
-
+		<p style="font-size: 160%;">Visit Again!!!!!</p>
 		<img src="resources/images/img29.gif" alt="Smiley face">
 	</center>
 </body>
