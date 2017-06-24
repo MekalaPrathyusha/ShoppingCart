@@ -75,9 +75,6 @@
 
 							<div id="navbar" class="navbar-collapse collapse">
 								<ul class="nav navbar-nav">
-									<li style=""><img
-										src="<c:url value="/resources/images/img10.png"  /> class="
-										media-object" style="width: 60px"></li>
 
 									<li><a href="<c:url value="/product/productList/all" />">Products</a></li>
 

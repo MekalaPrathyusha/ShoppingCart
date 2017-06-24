@@ -8,6 +8,7 @@ body {
 	background-color: cyan;
 }
 </style>
+
 <br>
 <br>
 <br>
@@ -23,7 +24,8 @@ body {
 <body>
 	<center>
 		<h1 style="font-size: 300%;">Thank You for Shopping!!!</h1>
-		<p style="font-size: 160%;">Visit Again!!!!!</p>
+		<p style="font-size: 160%;">Your Order will be delivered to you
+			within three business days!!</p>
 		<img src="resources/images/img29.gif" alt="Smiley face">
 	</center>
 </body>

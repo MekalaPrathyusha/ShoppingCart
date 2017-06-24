@@ -26,11 +26,11 @@ body {
 			<div class="form-group">
 				<label for="category">Category</label> <label
 					class="checkbox-inline"><form:radiobutton
-						path="productCategory" id="category" value="casual" />Facial</label> <label
+						path="productCategory" id="category" value="casual" />Casual</label> <label
 					class="checkbox-inline"><form:radiobutton
-						path="productCategory" id="category" value="wedding" />Internal</label> <label
+						path="productCategory" id="category" value="wedding" />Wedding</label> <label
 					class="checkbox-inline"><form:radiobutton
-						path="productCategory" id="category" value="seasonal" />External</label>
+						path="productCategory" id="category" value="seasonal" />Seasonal</label>
 			</div>
 
 			<div class="form-group">
@@ -50,7 +50,7 @@ body {
 					class="checkbox-inline"><form:radiobutton
 						path="productCondition" id="condition" value="new" />New</label> <label
 					class="checkbox-inline"><form:radiobutton
-						path="productCondition" id="condition" value="used" />Used</label>
+						path="productCondition" id="condition" value="used" />Old</label>
 			</div>
 
 			<div class="form-group">

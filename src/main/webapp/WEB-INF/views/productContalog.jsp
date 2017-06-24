@@ -1,14 +1,13 @@
-<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
-	pageEncoding="ISO-8859-1"%>
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <%@taglib prefix="form" uri="http://www.springframework.org/tags/form"%>
 <%@ taglib prefix="spring" uri="http://www.springframework.org/tags"%>
 <%@include file="/WEB-INF/views/template/header.jsp"%>
+
 <style>
 body {
 	background-color: cyan;
 }
 </style>
+
 <html>
 <head>
 
@@ -31,14 +30,11 @@ body {
 						});
 			});
 </script>
-
 <!-- <script>
 $(document).ready(function(){
     $('#myTable').dataTable();
 });
 </script> -->
-<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insert title here</title>
 </head>
 <body>
 	<div class="table-responsive">
@@ -86,15 +82,14 @@ $(document).ready(function(){
 					</tbody>
 
 				</table>
-
+				
 				<a href="<spring:url value="/admin/product/addProduct" />"
-					class="btn btn-primary">Add Product</a>
-
+		class="btn btn-primary">Add Product</a>
+				
 			</div>
 		</div>
 	</div>
 
 </body>
 <%@include file="/WEB-INF/views/template/footer.jsp"%>
-
 </html>

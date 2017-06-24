@@ -13,7 +13,7 @@ body {
 			<div class="" page-header>
 				<h1>About Us</h1>
 				<center>
-					<img src="resources/images/img36.gif" style="width: 60%" />
+					<img src="resources/images/img63.gif" style="width: 60%" />
 				</center>
 				<br> <br>
 				<p>We are a humble team who are passionate about helping our

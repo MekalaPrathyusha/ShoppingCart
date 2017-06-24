@@ -30,7 +30,6 @@ body {
 			<li data-target="#myCarousel" data-slide-to="1"></li>
 			<li data-target="#myCarousel" data-slide-to="2"></li>
 			<li data-target="#myCarousel" data-slide-to="3"></li>
-			<li data-target="#myCarousel" data-slide-to="4"></li>
 		</ol>
 
 		<!-- Wrapper for slides -->
@@ -60,18 +59,10 @@ body {
 				</div>
 			</div>
 
-			<div class="item">
-				<img src="<c:url value="/resources/images/img16.jpg" />"
-					alt="Fourth-slide">
-				<div class="carousel-caption">
-					<h3>Makeup</h3>
-					<p>A Smile is the best makeup any girl can wear!!</p>
-				</div>
-			</div>
 
 			<div class="item">
 				<img src="<c:url value="/resources/images/img4.jpg" />"
-					alt="Fifth-slide">
+					alt="Fouth-slide">
 				<div class="carousel-caption">
 					<h3>Be Your Own Kind Of Beautiful</h3>
 					<p>Your Ideas,your Creativity...you own it!!</p>
@@ -107,10 +98,11 @@ body {
 		<div class="row">
 			<div class="col-md-4">
 				<a class="btn btn-default"
-					href="<c:url value="/product/productList?searchCondition=$" />"
-					role="button"> <img class="img-circle"
-					src="<c:url value="/resources/images/img12.png" />" alt=" "
-					width="140" height="140"></a>
+					href="<c:url value="/product/viewProduct/8" />" role="button">
+					<img class="img-circle"
+					src="<c:url value="/resources/images/img42.png" />" alt=" "
+					width="140" height="140">
+				</a>
 
 
 			</div>
@@ -123,7 +115,7 @@ body {
 					<a class="btn btn-default"
 						href="<c:url value="/product/productList?searchCondition=$" />"
 						role="button"> <img class="img-circle"
-						src="<c:url value="/resources/images/img8.png" />" alt=" "
+						src="<c:url value="/resources/images/img18.png" />" alt=" "
 						width="140" height="140"></a>
 
 
@@ -134,10 +126,11 @@ body {
 				<div class="row">
 					<div class="col-md-4">
 						<a class="btn btn-default"
-							href="<c:url value="/product/productList?searchCondition=$" />"
-							role="button"> <img class="img-circle"
-							src="<c:url value="/resources/images/img18.png" />" alt=" "
-							width="140" height="140"></a>
+							href="<c:url value="/product/viewProduct/10" />" role="button">
+							<img class="img-circle"
+							src="<c:url value="/resources/images/img51.png" />" alt=" "
+							width="140" height="140">
+						</a>
 
 
 					</div>
